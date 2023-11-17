@@ -5,3 +5,10 @@ gmail :Webdev@endsem
 
 rohit1750
 https://github.com/rohith1750
+
+
+<select name="customer_class" required>
+            <option value="premium">Premium</option>
+            <option value="gold">Gold</option>
+            <option value="standard">Standard</option>
+        </select><br>
